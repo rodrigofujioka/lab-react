@@ -1,25 +1,26 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import UsuarioApp from './Component/Usuario/UsuarioApp';
+import './css/bootstrap'
 
 function App() {
   return (
-    <div className="App">
+    
+    <div >
+     
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />   
         <p>
-          Aula 01 de react para disciplina de programação avançada com React.
-          Vamos editar o arquivo <code>src/App.js</code>.
+          Aula 02 de react - Estamos adicionando um formulário simples
         </p>
-        <a
-          className="App-link"
-          href="http://www.rodrigofujioka.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Meu Site
-        </a>
+                   
+         <p>
+             <UsuarioApp/>
+         </p>
       </header>
+   
+
     </div>
   );
 }
