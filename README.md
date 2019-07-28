@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.4.0-yellow" alt="Beta Release version"/>
+  <img src="https://img.shields.io/badge/Version-0.3.0-yellow" alt="Beta Release version"/>
 </p>
 
 
