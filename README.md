@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-0.4.0-yellow" alt="Beta Release version"/>
+</p>
+
+
+## Configure tools
+
+[yarn](https://yarnpkg.com/lang/pt-br/docs/install/#debian-stable) - Install yarn 
+
+[popper.js](https://github.com/FezVrasta/popper.js#installation) - Add popper.js
+[jquery](https://jquery.com/download/)  add jquery
+[bootstrap](https://getbootstrap.com/docs/4.2/getting-started/download/#yarn)  add bootstrap
+
+```PowerShell
+//run in console
+$yarn add popper.js jquery bootstrap
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
