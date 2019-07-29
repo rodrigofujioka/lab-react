@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import NavBar from './components/layout/NavBar';
 import './App.css';
+import UsuarioApp from './Component/Usuario/UsuarioApp';
+import './css/bootstrap'
 
 function App() {
   return (
@@ -9,8 +11,7 @@ function App() {
     <div className="App">
       <div> 
         <NavBar/>
-
-    </div>
+      </div>
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />   
