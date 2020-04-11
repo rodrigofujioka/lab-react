@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className='py-4 text-center bg-gray-400'>
             MyDailyStatus é um projeto criado durante o Fullstack Lab do DevPleno.<br />
-            Implementado por: <a href='https://www.linkedin.com/in/guilherme-antonio-ferrari/' target='_blank'>Guilherme Ferrari</a>
+            Implementado por: <a href='https://www.linkedin.com/inrodrigofujioka/' target='_blank'>Rodrigo Fujioka</a>
         </div>
     )
 }

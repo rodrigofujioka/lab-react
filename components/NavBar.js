@@ -12,6 +12,7 @@ const NavLink = ({ href, children }) => {
 const NavBar = () => {
     return (
         <div className='bg-gray-500 py-4 text-center'>
+            <NavLink href='/'>home</NavLink> 
             <NavLink href='/sobre'>Sobre</NavLink>   
             <NavLink href='/cadastro'>Cadastro</NavLink>
             <NavLink href='/entrar'>Entrar</NavLink>  
