@@ -2,8 +2,12 @@
 
 # dependencies
 /node_modules
+/front/node_modules
+/back/node_modules
 /.pnp
 .pnp.js
+.next
+
 
 # testing
 /coverage
@@ -21,3 +25,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+../yarn.lock
