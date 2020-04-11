@@ -1,15 +1,16 @@
 {
-  "name": "mydailystatus",
-  "version": "1.0.0",
+  "name": "lab-react",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "author": "Guilherm Ferrari",
-  "license": "ISC",
+  "author": "Rodrigo Fujioka",
+  "license": "MIT",
   "dependencies": {
     "@auth0/nextjs-auth0": "^0.11.0",
     "dotenv": "^8.2.0",
